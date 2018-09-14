@@ -2,9 +2,9 @@
 
 Projet : Portfolio Photographes
 
-Étudiants : Thomas René Allebe et Marine Delage
-
 Nom du projet : Natural Light Photography 
 
+Étudiants : Thomas René Allebe et Marine Delage
 
+Contact : thmsrn@icloud.com
 
